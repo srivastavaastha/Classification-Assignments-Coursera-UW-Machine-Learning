@@ -12,7 +12,6 @@ Logistic Regression
 * Inspect the coefficients of the logistic regression model and interpret their meanings.
 * Compare multiple logistic regression models.
 ## Files Used
-* .csv file is for dataset.
 * .ipynb is assignments solution file.
 ## Credits
 Coursera 
