@@ -13,5 +13,6 @@ Logistic Regression
 * Compare multiple logistic regression models.
 ## Files Used
 * .ipynb is assignments solution file.
+* Dataset file is a large file which cann't be uploaded due to github size restriction.
 ## Credits
 Coursera 
