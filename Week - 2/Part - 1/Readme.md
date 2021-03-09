@@ -13,6 +13,7 @@ Logistic Regression
 * Compute classification accuracy for the logistic regression model.
 ## Files used
 * .ipynb is assignment solution.
-* .csv is dataset. 
+* .zip is dataset.
+* .json is 193 significant word file which we have used in solution file 
 ## Credit
 Coursera
