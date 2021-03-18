@@ -1,6 +1,8 @@
 # Decision Trees in Prectice
 ## Goal
 Preventing overfitting in decision trees.
+## Algorithem
+Decision tree
 ## Implementation
 * Implement binary decision trees with different early stopping methods.
 * Compare models with different stopping parameters.
