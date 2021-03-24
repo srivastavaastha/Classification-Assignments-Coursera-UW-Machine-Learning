@@ -10,5 +10,8 @@ Explore the use of boosting.
 * Explore how the number of trees influences classification performance.
 ## Algorithm
 Decesion Tree Boosting
+## Files Used
+* .ipynb file is assignment file
+* Data set file is too big to upload
 ## Credit
 Coursera
